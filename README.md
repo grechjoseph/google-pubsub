@@ -7,4 +7,5 @@
     <li>Select the creation service account -> Add Key -> Create Key -> Json.</li>
     <li>Copy downloaded json to C:\directory for simplicity.</li>
     <li>Pubisher: Add GOOGLE_APPLICATION_CREDENTIALS=< json path >.</li>
+    <li>Subscriber: Add GOOGLE_APPLICATION_CREDENTIALS=< json path >.</li>
 </ol>
