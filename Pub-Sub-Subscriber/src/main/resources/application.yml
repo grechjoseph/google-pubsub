@@ -1,0 +1,8 @@
+server:
+  port: 2222
+
+spring:
+  cloud:
+    gcp:
+      bigquery:
+        project-id: jg-gcp
